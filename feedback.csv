@@ -1,0 +1,501 @@
+FeedbackID,EnrollID,Rating,Comments,FeedbackDate
+1,782,1,Good course but could be improved,5/8/2025
+2,520,2,Very satisfied with this course,3/14/2023
+3,163,4,Excellent course,10/9/2023
+4,444,3,Great learning experience,8/15/2022
+5,219,5,Excellent course,12/10/2025
+6,848,3,Good course and clear explanations,10/28/2023
+7,644,4,Very satisfied with this course,9/3/2025
+8,297,5,The course was helpful,6/19/2024
+9,804,5,Good course and clear explanations,8/22/2025
+10,155,4,Useful content,8/8/2024
+11,358,1,Useful content,7/17/2023
+12,2,4,Good course and clear explanations,7/6/2022
+13,173,1,Good course and clear explanations,2/5/2024
+14,497,5,Easy to understand,6/15/2024
+15,240,4,Excellent course,7/6/2025
+16,325,4,Useful content,9/30/2022
+17,946,1,Great learning experience,10/17/2022
+18,395,1,Very satisfied with this course,4/22/2024
+19,153,2,Excellent course,12/29/2022
+20,262,5,Very useful and informative,12/1/2022
+21,97,5,Useful content,1/7/2022
+22,638,1,Very useful and informative,11/19/2023
+23,823,3,The course was helpful,12/20/2025
+24,308,1,Very satisfied with this course,11/29/2023
+25,474,2,The instructor explained everything well,8/22/2025
+26,460,1,Useful content,6/21/2025
+27,773,1,Great learning experience,11/14/2025
+28,206,4,Good course but could be improved,12/21/2023
+29,269,2,Very useful and informative,2/18/2023
+30,588,5,Very satisfied with this course,10/29/2024
+31,288,1,Very satisfied with this course,9/22/2023
+32,989,3,Great learning experience,10/19/2024
+33,945,4,Very useful and informative,11/21/2023
+34,647,2,Good course and clear explanations,3/17/2023
+35,124,5,Great learning experience,1/17/2022
+36,963,5,Very useful and informative,10/25/2024
+37,733,2,Good course but could be improved,6/10/2024
+38,439,5,Good course and clear explanations,1/14/2022
+39,271,5,Useful content,8/10/2024
+40,249,3,Easy to understand,5/15/2024
+41,887,5,Very satisfied with this course,3/6/2025
+42,503,3,Easy to understand,2/7/2022
+43,731,4,Excellent course,12/25/2024
+44,925,2,Great learning experience,10/9/2023
+45,178,5,Very satisfied with this course,12/18/2025
+46,112,3,Good course and clear explanations,9/12/2022
+47,724,2,Good course and clear explanations,1/2/2023
+48,848,2,Excellent course,2/5/2024
+49,376,4,Very useful and informative,8/5/2022
+50,137,4,The course was helpful,5/17/2023
+51,151,3,Very useful and informative,10/5/2024
+52,604,5,Excellent course,7/27/2025
+53,902,3,Very useful and informative,11/1/2022
+54,964,2,Useful content,5/25/2025
+55,723,2,Easy to understand,4/2/2024
+56,174,5,Useful content,12/25/2022
+57,395,3,Good course but could be improved,12/4/2022
+58,210,5,Easy to understand,10/27/2022
+59,876,5,The course was helpful,7/18/2025
+60,31,5,Easy to understand,6/29/2023
+61,620,2,Excellent course,3/25/2025
+62,193,2,The course was helpful,7/18/2025
+63,834,3,Good course and clear explanations,4/22/2025
+64,245,3,Good course and clear explanations,10/29/2024
+65,455,5,Very satisfied with this course,5/31/2025
+66,298,2,Great learning experience,9/11/2025
+67,611,4,Very satisfied with this course,10/11/2024
+68,329,2,The course was helpful,7/27/2024
+69,565,2,Good course and clear explanations,12/23/2022
+70,349,5,Excellent course,5/5/2023
+71,920,1,Useful content,6/7/2023
+72,669,1,Excellent course,9/7/2025
+73,459,1,Very satisfied with this course,2/22/2024
+74,19,2,The instructor explained everything well,3/7/2023
+75,785,4,Great learning experience,10/5/2022
+76,253,4,Excellent course,7/24/2025
+77,337,3,Great learning experience,6/26/2024
+78,398,2,Very satisfied with this course,5/27/2025
+79,530,2,Useful content,3/3/2024
+80,208,3,The course was helpful,7/2/2025
+81,735,4,The instructor explained everything well,1/6/2022
+82,974,1,Good course but could be improved,1/7/2022
+83,883,2,Very useful and informative,5/26/2024
+84,444,3,Very satisfied with this course,5/21/2024
+85,432,4,Very satisfied with this course,6/27/2022
+86,623,4,The course was helpful,1/20/2024
+87,40,4,The instructor explained everything well,4/25/2025
+88,980,1,Great learning experience,4/29/2025
+89,354,4,Very satisfied with this course,6/28/2023
+90,267,2,Good course and clear explanations,6/30/2024
+91,196,1,Great learning experience,3/8/2024
+92,227,4,Great learning experience,7/22/2023
+93,401,4,Good course and clear explanations,11/10/2025
+94,692,4,Very satisfied with this course,5/19/2022
+95,188,1,Very useful and informative,5/5/2022
+96,432,2,Useful content,8/28/2025
+97,718,4,Useful content,7/20/2023
+98,454,2,Excellent course,8/9/2024
+99,276,3,Great learning experience,7/2/2023
+100,97,5,Very satisfied with this course,2/20/2025
+101,553,4,Useful content,8/20/2024
+102,794,3,The course was helpful,7/6/2025
+103,168,5,Good course but could be improved,1/18/2025
+104,618,4,Good course and clear explanations,6/24/2024
+105,320,2,Excellent course,11/8/2022
+106,379,2,Useful content,3/1/2025
+107,852,3,Very useful and informative,4/1/2024
+108,921,3,Very satisfied with this course,4/30/2023
+109,173,1,Great learning experience,11/13/2025
+110,995,3,Very useful and informative,4/17/2022
+111,61,3,Very useful and informative,12/22/2025
+112,643,4,Very useful and informative,12/10/2024
+113,58,5,Great learning experience,11/26/2025
+114,923,5,Very useful and informative,11/26/2024
+115,729,3,The instructor explained everything well,9/25/2023
+116,847,5,The instructor explained everything well,11/4/2023
+117,125,5,Very satisfied with this course,4/19/2024
+118,556,1,Very satisfied with this course,12/21/2025
+119,81,3,The instructor explained everything well,6/30/2023
+120,219,5,Great learning experience,7/29/2022
+121,594,2,Easy to understand,4/28/2022
+122,724,2,Useful content,3/24/2022
+123,200,1,Very useful and informative,10/31/2023
+124,270,5,Excellent course,6/25/2022
+125,447,2,Good course but could be improved,12/30/2022
+126,308,3,The course was helpful,6/8/2025
+127,885,5,Great learning experience,6/5/2023
+128,171,2,Very satisfied with this course,12/2/2024
+129,584,5,Good course but could be improved,4/18/2023
+130,374,3,Very satisfied with this course,8/18/2024
+131,486,3,Useful content,7/19/2024
+132,962,4,Good course but could be improved,9/19/2025
+133,998,5,Very useful and informative,7/14/2023
+134,389,2,Easy to understand,3/23/2024
+135,793,3,The course was helpful,1/8/2024
+136,368,4,Useful content,1/14/2024
+137,372,2,The course was helpful,2/26/2022
+138,64,5,Useful content,2/24/2022
+139,407,5,Good course but could be improved,11/21/2023
+140,996,4,The instructor explained everything well,11/18/2025
+141,847,3,The course was helpful,7/22/2024
+142,478,5,Very satisfied with this course,12/14/2025
+143,874,5,Very satisfied with this course,7/17/2022
+144,975,3,The instructor explained everything well,3/27/2025
+145,690,2,The instructor explained everything well,7/23/2024
+146,458,4,Very satisfied with this course,4/19/2024
+147,529,1,The course was helpful,7/12/2024
+148,126,1,Very useful and informative,6/8/2024
+149,525,5,Very useful and informative,4/15/2024
+150,115,3,Very satisfied with this course,3/1/2023
+151,526,5,Great learning experience,11/8/2023
+152,141,1,Very satisfied with this course,9/5/2025
+153,998,1,Great learning experience,11/29/2023
+154,309,5,Very satisfied with this course,9/27/2022
+155,801,5,Very useful and informative,4/9/2023
+156,878,3,Very useful and informative,8/11/2024
+157,812,5,The course was helpful,3/29/2024
+158,614,2,Excellent course,8/22/2024
+159,32,5,Good course and clear explanations,12/27/2022
+160,406,2,Useful content,8/18/2022
+161,379,1,Good course but could be improved,10/26/2023
+162,696,4,The instructor explained everything well,5/11/2025
+163,9,5,Excellent course,2/13/2024
+164,769,3,Very useful and informative,12/17/2025
+165,995,5,Good course but could be improved,7/18/2023
+166,6,4,Useful content,5/21/2025
+167,862,2,Easy to understand,7/8/2024
+168,820,1,Great learning experience,8/24/2023
+169,434,3,Very useful and informative,9/28/2025
+170,355,4,Excellent course,9/4/2023
+171,360,5,The instructor explained everything well,11/15/2022
+172,908,4,The instructor explained everything well,10/27/2025
+173,350,2,Very satisfied with this course,6/2/2024
+174,575,2,Useful content,1/19/2025
+175,881,3,Very useful and informative,2/3/2023
+176,899,3,Very satisfied with this course,12/8/2024
+177,659,5,The instructor explained everything well,4/27/2022
+178,266,5,Easy to understand,5/10/2022
+179,171,5,The instructor explained everything well,11/26/2023
+180,637,2,Good course and clear explanations,6/29/2024
+181,539,1,Good course but could be improved,1/18/2025
+182,352,1,Good course but could be improved,11/27/2025
+183,595,4,Excellent course,3/19/2022
+184,363,5,Very useful and informative,9/5/2024
+185,399,2,The course was helpful,10/10/2024
+186,763,1,Very useful and informative,2/9/2023
+187,962,1,Very satisfied with this course,10/22/2023
+188,739,4,Very satisfied with this course,12/27/2022
+189,892,4,Great learning experience,10/13/2025
+190,21,1,The instructor explained everything well,10/10/2023
+191,700,1,Useful content,5/3/2025
+192,888,1,Great learning experience,4/27/2025
+193,923,2,Very useful and informative,5/21/2025
+194,334,1,Excellent course,4/26/2024
+195,866,2,Excellent course,7/22/2023
+196,957,2,Useful content,6/6/2025
+197,172,2,Great learning experience,4/18/2025
+198,323,2,Good course and clear explanations,8/24/2024
+199,251,1,Good course but could be improved,1/7/2023
+200,687,4,Good course and clear explanations,2/3/2025
+201,957,1,The course was helpful,1/10/2022
+202,778,5,Very satisfied with this course,10/4/2024
+203,431,2,Easy to understand,11/19/2025
+204,66,4,Great learning experience,9/3/2024
+205,592,4,The course was helpful,3/2/2022
+206,84,3,Excellent course,9/30/2022
+207,937,5,Easy to understand,12/3/2024
+208,103,3,Very satisfied with this course,10/4/2023
+209,572,2,The instructor explained everything well,1/8/2023
+210,899,4,Very satisfied with this course,5/29/2023
+211,62,1,Great learning experience,6/21/2024
+212,612,4,The instructor explained everything well,7/9/2023
+213,52,3,The course was helpful,3/6/2024
+214,110,1,Easy to understand,1/1/2025
+215,728,2,The course was helpful,12/14/2022
+216,40,3,The instructor explained everything well,5/4/2023
+217,309,1,Very satisfied with this course,9/11/2024
+218,204,2,Good course but could be improved,9/4/2023
+219,659,5,Easy to understand,10/26/2024
+220,743,4,Great learning experience,10/26/2024
+221,275,2,Excellent course,11/22/2023
+222,212,2,Excellent course,3/15/2022
+223,121,2,Good course and clear explanations,8/24/2025
+224,715,2,Easy to understand,12/4/2023
+225,481,3,Good course but could be improved,8/1/2024
+226,957,4,Very satisfied with this course,5/19/2024
+227,220,1,The course was helpful,8/20/2023
+228,298,4,Good course but could be improved,12/9/2023
+229,821,2,Great learning experience,6/11/2022
+230,739,1,Useful content,4/1/2023
+231,379,2,Very satisfied with this course,6/10/2024
+232,437,3,Easy to understand,2/23/2022
+233,441,3,The course was helpful,1/1/2022
+234,132,5,Very useful and informative,2/7/2023
+235,746,2,Very satisfied with this course,2/27/2022
+236,781,3,Very satisfied with this course,5/30/2022
+237,604,3,Good course but could be improved,2/28/2022
+238,320,2,Useful content,8/26/2024
+239,489,3,Very satisfied with this course,5/5/2023
+240,555,3,Great learning experience,4/26/2022
+241,507,5,Very useful and informative,12/7/2024
+242,153,1,Easy to understand,3/13/2025
+243,704,4,Very useful and informative,3/12/2023
+244,395,2,Great learning experience,12/10/2025
+245,970,5,Easy to understand,3/12/2022
+246,666,4,Very useful and informative,12/4/2024
+247,520,5,Good course but could be improved,8/3/2023
+248,696,1,Excellent course,4/17/2024
+249,164,3,Excellent course,6/8/2025
+250,920,3,Very useful and informative,9/16/2022
+251,868,4,Easy to understand,3/11/2022
+252,575,2,Excellent course,9/7/2024
+253,207,5,Great learning experience,10/18/2023
+254,58,2,Good course but could be improved,7/21/2024
+255,172,3,Useful content,11/20/2023
+256,953,2,Easy to understand,5/27/2024
+257,747,5,Good course and clear explanations,2/27/2025
+258,268,3,The course was helpful,2/2/2022
+259,178,1,Good course and clear explanations,10/14/2025
+260,664,1,Good course and clear explanations,3/25/2025
+261,433,1,Good course but could be improved,6/30/2022
+262,796,4,The course was helpful,10/10/2025
+263,212,1,Easy to understand,8/1/2023
+264,175,5,Great learning experience,2/28/2023
+265,558,1,Good course but could be improved,5/29/2024
+266,852,2,The instructor explained everything well,3/20/2025
+267,623,3,Good course and clear explanations,4/2/2023
+268,677,5,Useful content,3/17/2023
+269,72,3,Very satisfied with this course,2/20/2022
+270,171,4,Very useful and informative,6/30/2022
+271,39,2,Good course and clear explanations,12/28/2022
+272,974,5,Very satisfied with this course,5/3/2024
+273,821,4,The course was helpful,12/21/2024
+274,376,1,Easy to understand,10/15/2023
+275,995,4,Useful content,1/5/2025
+276,355,4,Very satisfied with this course,1/4/2024
+277,2,1,Excellent course,1/27/2022
+278,450,3,Useful content,6/11/2023
+279,405,3,Easy to understand,10/28/2024
+280,834,5,Good course but could be improved,3/24/2025
+281,230,5,The instructor explained everything well,4/26/2025
+282,896,4,Good course but could be improved,9/8/2025
+283,282,1,Useful content,8/29/2022
+284,28,1,Very satisfied with this course,4/15/2025
+285,362,4,Good course but could be improved,11/11/2022
+286,53,1,Very useful and informative,4/29/2024
+287,402,3,Easy to understand,1/29/2023
+288,476,1,Excellent course,10/5/2022
+289,627,5,Great learning experience,6/27/2025
+290,854,5,The course was helpful,12/16/2024
+291,760,1,Good course but could be improved,1/11/2025
+292,787,4,The instructor explained everything well,4/8/2023
+293,885,4,Good course and clear explanations,2/4/2024
+294,157,1,Very useful and informative,8/16/2025
+295,807,3,Very useful and informative,7/13/2025
+296,267,1,Good course but could be improved,9/2/2025
+297,370,3,Very satisfied with this course,7/23/2025
+298,176,2,Great learning experience,10/6/2024
+299,754,2,Easy to understand,10/11/2024
+300,499,5,Good course and clear explanations,1/6/2024
+301,178,5,The course was helpful,12/8/2022
+302,260,4,Very satisfied with this course,7/31/2022
+303,510,4,Easy to understand,1/23/2022
+304,622,3,The course was helpful,9/3/2023
+305,106,3,The instructor explained everything well,11/8/2022
+306,773,1,Good course and clear explanations,10/3/2023
+307,594,5,Useful content,5/4/2023
+308,874,3,Good course but could be improved,5/11/2024
+309,973,2,Good course and clear explanations,12/10/2024
+310,306,5,Very satisfied with this course,4/24/2024
+311,628,4,Very satisfied with this course,3/9/2022
+312,501,2,Very satisfied with this course,12/2/2023
+313,45,4,Very satisfied with this course,2/11/2025
+314,116,2,Great learning experience,12/20/2024
+315,256,4,The instructor explained everything well,8/20/2025
+316,818,3,Very useful and informative,3/16/2024
+317,674,5,Useful content,10/30/2024
+318,145,3,Excellent course,9/1/2025
+319,982,3,Excellent course,12/22/2024
+320,432,4,Good course but could be improved,10/22/2022
+321,580,4,Easy to understand,11/9/2025
+322,757,2,The instructor explained everything well,1/25/2024
+323,792,3,Useful content,1/29/2022
+324,23,3,Excellent course,9/4/2024
+325,11,2,Good course but could be improved,9/9/2022
+326,80,3,Useful content,11/23/2024
+327,721,3,Useful content,5/19/2023
+328,658,2,The instructor explained everything well,5/1/2024
+329,906,2,The instructor explained everything well,5/15/2024
+330,227,2,Very satisfied with this course,9/22/2022
+331,143,5,Useful content,9/16/2025
+332,665,1,Very satisfied with this course,5/17/2025
+333,169,1,Very useful and informative,12/17/2022
+334,540,1,Very satisfied with this course,6/20/2025
+335,782,2,Good course and clear explanations,11/3/2024
+336,890,1,Good course and clear explanations,7/6/2024
+337,647,3,Useful content,10/30/2022
+338,95,1,The course was helpful,4/19/2024
+339,756,1,Very useful and informative,9/25/2022
+340,106,5,Easy to understand,9/11/2022
+341,154,2,Good course but could be improved,2/7/2024
+342,252,2,Great learning experience,4/8/2025
+343,331,5,Useful content,5/16/2022
+344,52,5,Great learning experience,5/4/2025
+345,933,2,The course was helpful,2/3/2023
+346,206,2,Very satisfied with this course,4/24/2022
+347,248,3,The course was helpful,12/4/2025
+348,86,1,The instructor explained everything well,9/26/2024
+349,403,3,The course was helpful,5/1/2025
+350,46,5,The instructor explained everything well,11/21/2022
+351,242,4,Great learning experience,4/18/2022
+352,297,3,Good course and clear explanations,11/24/2025
+353,77,3,The course was helpful,2/27/2023
+354,547,5,The instructor explained everything well,3/22/2022
+355,28,2,Very satisfied with this course,6/11/2023
+356,706,2,The course was helpful,12/7/2023
+357,62,4,Very useful and informative,10/4/2022
+358,675,3,Very satisfied with this course,3/21/2025
+359,914,4,Good course but could be improved,11/1/2022
+360,390,5,Excellent course,12/17/2023
+361,655,4,Easy to understand,11/4/2022
+362,799,5,Easy to understand,8/27/2025
+363,579,5,Very satisfied with this course,10/31/2022
+364,842,2,Useful content,9/30/2022
+365,33,5,Easy to understand,6/24/2024
+366,177,1,The course was helpful,11/20/2025
+367,932,2,Great learning experience,6/11/2022
+368,465,2,Good course and clear explanations,8/28/2023
+369,772,2,The course was helpful,9/11/2024
+370,2,1,Very useful and informative,1/11/2023
+371,651,1,The instructor explained everything well,4/23/2024
+372,915,5,Excellent course,11/29/2025
+373,598,3,The course was helpful,1/9/2023
+374,953,5,Great learning experience,3/23/2022
+375,678,3,Useful content,3/9/2022
+376,248,5,Very useful and informative,1/1/2024
+377,405,4,Excellent course,2/22/2022
+378,602,5,Great learning experience,10/30/2023
+379,121,5,Good course and clear explanations,9/12/2023
+380,577,1,Excellent course,5/28/2025
+381,237,3,Easy to understand,8/5/2024
+382,954,4,Excellent course,9/3/2022
+383,497,2,Very satisfied with this course,8/9/2025
+384,801,4,The course was helpful,2/5/2025
+385,838,5,Good course but could be improved,12/27/2025
+386,524,5,Very useful and informative,10/12/2023
+387,397,5,Good course and clear explanations,12/27/2022
+388,128,3,Easy to understand,3/6/2023
+389,10,3,Good course but could be improved,2/21/2024
+390,912,2,Very useful and informative,6/3/2024
+391,583,1,Very useful and informative,11/29/2023
+392,298,4,Great learning experience,9/16/2022
+393,88,2,The course was helpful,12/22/2025
+394,742,4,Good course and clear explanations,3/12/2022
+395,559,3,Very satisfied with this course,8/26/2023
+396,8,1,Easy to understand,3/5/2024
+397,524,4,Great learning experience,7/21/2024
+398,677,4,Useful content,6/1/2023
+399,304,5,Excellent course,6/25/2023
+400,486,3,Very useful and informative,6/4/2023
+401,293,1,The instructor explained everything well,4/24/2023
+402,792,4,Useful content,9/7/2025
+403,985,3,Excellent course,8/29/2024
+404,10,3,Excellent course,7/14/2023
+405,541,2,Good course and clear explanations,11/17/2024
+406,324,4,Very satisfied with this course,3/6/2025
+407,848,2,Excellent course,12/5/2022
+408,41,4,The course was helpful,5/27/2022
+409,704,3,Very satisfied with this course,7/5/2024
+410,192,2,The course was helpful,2/17/2023
+411,479,4,The instructor explained everything well,10/23/2024
+412,427,4,Very satisfied with this course,3/19/2022
+413,359,3,The instructor explained everything well,10/19/2024
+414,755,4,Good course and clear explanations,10/30/2025
+415,517,4,Useful content,9/3/2025
+416,286,4,Good course but could be improved,1/8/2023
+417,303,1,Very satisfied with this course,4/28/2025
+418,666,1,Very satisfied with this course,7/13/2023
+419,140,3,Good course but could be improved,12/7/2023
+420,444,4,Very useful and informative,10/20/2022
+421,186,3,Easy to understand,11/19/2025
+422,509,3,The instructor explained everything well,4/19/2023
+423,339,3,Great learning experience,1/26/2024
+424,65,1,Useful content,5/29/2023
+425,284,2,The instructor explained everything well,3/21/2023
+426,368,2,Excellent course,7/6/2022
+427,850,5,Excellent course,8/15/2024
+428,629,5,Easy to understand,8/5/2023
+429,738,3,The instructor explained everything well,9/26/2025
+430,667,3,Very satisfied with this course,7/21/2023
+431,457,4,Very useful and informative,12/6/2025
+432,282,2,Excellent course,4/11/2022
+433,618,3,Useful content,7/23/2023
+434,133,2,Very satisfied with this course,2/3/2023
+435,621,5,Very useful and informative,2/22/2022
+436,807,4,Excellent course,1/23/2023
+437,597,3,Very useful and informative,5/18/2024
+438,705,3,The instructor explained everything well,12/13/2023
+439,169,2,Useful content,4/25/2023
+440,854,2,The course was helpful,11/21/2024
+441,245,5,Useful content,9/27/2022
+442,136,5,Excellent course,2/12/2022
+443,85,3,Very satisfied with this course,10/11/2024
+444,176,5,Good course and clear explanations,5/25/2023
+445,793,5,The course was helpful,2/20/2025
+446,177,1,Very satisfied with this course,11/12/2024
+447,485,2,Good course and clear explanations,12/5/2022
+448,632,3,The instructor explained everything well,7/13/2023
+449,156,1,Good course and clear explanations,12/22/2025
+450,489,5,The course was helpful,6/29/2024
+451,485,4,Very useful and informative,3/15/2022
+452,76,3,Good course and clear explanations,8/21/2023
+453,625,5,Useful content,11/2/2024
+454,496,2,Very satisfied with this course,8/27/2022
+455,970,1,Great learning experience,11/26/2022
+456,871,5,Good course but could be improved,12/6/2022
+457,584,4,Excellent course,1/3/2023
+458,695,4,Very useful and informative,5/11/2022
+459,212,3,Great learning experience,10/3/2025
+460,238,1,Great learning experience,7/17/2025
+461,453,2,The instructor explained everything well,11/22/2024
+462,118,2,Excellent course,3/4/2024
+463,213,2,Good course and clear explanations,11/14/2022
+464,326,4,Good course and clear explanations,2/18/2022
+465,714,2,The instructor explained everything well,5/26/2025
+466,958,5,Very useful and informative,3/18/2024
+467,495,2,Great learning experience,10/8/2023
+468,550,1,Very satisfied with this course,2/27/2022
+469,541,2,Good course and clear explanations,8/3/2025
+470,954,2,Very useful and informative,12/12/2024
+471,999,5,Excellent course,4/20/2025
+472,537,5,Very satisfied with this course,9/24/2022
+473,589,5,Good course and clear explanations,12/11/2024
+474,537,4,Great learning experience,4/9/2025
+475,522,1,Useful content,6/13/2024
+476,867,1,The course was helpful,9/5/2025
+477,651,3,The course was helpful,9/18/2022
+478,459,4,The course was helpful,10/11/2024
+479,927,3,The instructor explained everything well,12/11/2023
+480,97,3,Great learning experience,4/2/2024
+481,980,1,Good course and clear explanations,7/4/2022
+482,111,5,Useful content,7/23/2025
+483,488,5,The course was helpful,3/2/2025
+484,679,4,The instructor explained everything well,3/12/2023
+485,926,3,Useful content,1/17/2023
+486,610,4,Easy to understand,9/14/2025
+487,28,5,Very satisfied with this course,10/9/2024
+488,680,3,Good course and clear explanations,3/18/2025
+489,622,5,Very useful and informative,7/18/2025
+490,774,3,Very useful and informative,10/25/2022
+491,871,1,Good course but could be improved,1/23/2023
+492,685,4,Good course and clear explanations,4/29/2024
+493,281,3,Excellent course,4/7/2022
+494,293,1,Good course and clear explanations,8/14/2022
+495,169,5,Very useful and informative,9/12/2024
+496,128,1,Good course and clear explanations,1/7/2025
+497,66,2,Easy to understand,5/13/2025
+498,142,5,Excellent course,5/23/2023
+499,152,5,Excellent course,3/14/2025
+500,911,5,Very satisfied with this course,10/1/2024
