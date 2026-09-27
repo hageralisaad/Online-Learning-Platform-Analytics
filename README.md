@@ -56,3 +56,14 @@ Analyzes course feedback, ratings, completion status, and progress.
 - Jupyter Notebook
 - Power BI Dashboard
 - Project Presentation
+
+## Power BI Dashboard
+
+### Student Engagement
+![Student Engagement](Student%20Engagement.png)
+
+### Course Performance
+![Course Performance](Course%20Performance.png)
+
+### Feedback & Completion Insights
+![Feedback & Completion Insights](Feedback%20%26%20Completion%20Insights.png)
